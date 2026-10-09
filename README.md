@@ -1,4 +1,4 @@
-# Database Management Portfolio
+# Principles of Database Management Portfolio
 
 A collection of database design solutions, Entity-Relationship (ER) modeling, and relational algebra queries from the Principles of Database Management course.
 
