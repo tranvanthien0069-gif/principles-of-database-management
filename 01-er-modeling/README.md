@@ -25,7 +25,6 @@ A database design for a clinic management system.
 ![Clinic ERD](./assets/clinic-system.svg)
 
 ### Key Relationships & Constraints
-### Key Relationships & Constraints
 
 | Relationship | Participating Entities | Cardinality | Justification                                                                                   |
 | :--- | :--- | :--- |:------------------------------------------------------------------------------------------------|
